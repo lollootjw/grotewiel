@@ -1,0 +1,1 @@
+CookieDeclaration.InjectCookieDeclaration('Error: The domain CONSENT.COOKIEBOT.COM is not authorized to show the cookie declaration. Please add it in the cookie manager to authorize the domain.');

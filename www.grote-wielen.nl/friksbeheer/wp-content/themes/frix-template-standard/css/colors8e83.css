@@ -1,0 +1,24 @@
+::-moz-selection { color: #fff;  background-color: #294678;  }
+::selection { color: #fff;  background-color: #294678;  }
+.frx_bg_p { background-color: #294678; }
+#nav-icon2.frx_bg_s {background:none;}
+.frx_bg_s, #nav-icon2.frx_bg_s span { background-color: #6fb755; }
+.frx_c_p { color: #294678; }
+.frx_c_s { color: #6fb755; }
+.frx_bc_p { border-color: #294678; }
+.frx_bc_s { border-color: #6fb755; }
+.btn--prim, .gform_button.button {background-color: #294678;}
+.btn--secu {background-color: #6fb755;}
+.btn.btn--ghost.btn--arrow:after {background-color:#294678;}
+.header__lower .menu__holder ul li.current-menu-item a {color:#294678;}
+.header--choice-2 .header__lower .menu__holder ul li.current-menu-item a {color:#fff;}
+.slider .bx-controls .bx-pager-item a.active, .slider .bx-controls .bx-pager-item a:hover {background:#294678; border: solid 2px #294678; }
+.style-choice-2 .block__posts__single__link, .block__posts__single__text h3:hover {color: #294678;}
+.style-choice-1 .block__posts__single__link {background-color: #294678;}
+.grey-link:hover {color: #294678;}
+.block__posts__single__text__datecat .cat { background-color: #294678;}
+.sub__menu__list li a:hover, .sub__menu__list li.active a {color: #294678;}
+.block__pagination .prev.page-numbers:before, .block__pagination .next.page-numbers:after, .single__content ul li:before { background-color: #294678;}
+.block_social a:hover {border-color: #294678;   background-color: #294678;}
+.page__menu ul li.current-menu-item > a {color: #294678;}
+.header .menu li.menu-item-has-children > .sub-menu {background:#294678;}
